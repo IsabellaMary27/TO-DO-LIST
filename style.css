@@ -1,0 +1,14 @@
+body{
+    background-color:crimson;
+    font-family:fantasy;
+    text-align:center;
+    font-size:30px;  
+    }
+    .container {
+        display: block;
+        width: 400px;
+        margin: 10px auto 100px;
+        padding:0px 10px 10px 10px;
+        border-radius:10px;
+      background-color:green;
+    }
